@@ -3,10 +3,10 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: Rayman.png
-alt: image-alt
-project-date: April 2014
+alt: Rayman
+project-date: April 2016 to January 2017
 client: Ubisoft
 category: AI Development
-description: This is my end of studies project. With the collaboration of Ubisoft we create an AI witch learn to play Rayman using Machine Learning Technologie
+description: This is my end of studies project. With the collaboration of Ubisoft we create an AI which learn to play Rayman using Machine Learning Technology
 
 ---

@@ -3,10 +3,10 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: HoriZon.png
-alt: image-alt
+alt: HoriZon
 project-date: 2013
 client: EPITA
-category: XNA and C#
-description: It's a Hack and Slash Game using XNA technology
+category: Gameplay Developer
+description: It's a Hack and Slash Game using XNA technology and C#
 
 ---
